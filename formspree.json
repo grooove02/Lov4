@@ -1,0 +1,15 @@
+{
+    "forms": {
+        "registrationForm": {
+            "endpoint": "https://formspree.io/f/2703326429797416558",
+            "fields": {
+                "username": {
+                    "required": true
+                },
+                "password": {
+                    "required": true
+                }
+            }
+        }
+    }
+}
